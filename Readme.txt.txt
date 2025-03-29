@@ -1,0 +1,4 @@
+Oi, Tudo bem? Fiz um curso de TI para internet que serviu justamente para saber se eu queria seguir essa carreira de Programador, felizmente gostei bastante da Profissão e quero
+ seguir em frente, mas como eu trabalhava de madruga e tinha que ta na aula pela manha às vezes eu não conseguia entender bem os conhecimentos passados pelo professor por conta 
+ do sono e do cansaço, mesmo com todas essas dificuldades eu consegui concluir meu curso porem sei das minhas fraquezas e resolvi recomeça meus estudos sobre Front-End e 
+ futuramente estudar sobre o Back-end pois quero ser um developer Ful stack.
